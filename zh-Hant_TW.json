@@ -1,0 +1,33 @@
+{
+  "name": "繁體中文",
+  "language": {
+    "generic": {
+      "petTa": "111111111111111",
+      "connectionFailed": "網路錯誤",
+      "retry": "重試",
+      "expiredLink": "連結已過期",
+      "unvalidLink": "連結已失效",
+      "noResultsFound": "沒有搜尋結果",
+      "ok": "OK",
+      "accountDelete": "帳號已刪除",
+      "deleteRemind": "此帳號已刪除，請用其他帳號登入使用123123123123123123123123123",
+      "congrats": "太好了！",
+      "invitationRemind": "已可訂購專屬餐點讓寵物吃得美味又健康！",
+      "queue": "隊伍前進中...",
+      "queueRemind": "排隊中，可訂購時將以Email提醒\n等待期間你可以....",
+      "queueList": "  • 新增一隻寵物\n  • 選擇專屬餐點",
+      "availabilityNotify": "我已收到可訂購通知",
+      "availabilityNotifyTooltips": "可至Userprofile > 帳號設定 檢查目前登入帳號是否為收到符合訂購資格通知的帳號。重新以該帳號再次登入使用即可。",
+      "tapToRetry": "點擊重試",
+      "appConstruction": "App臨時施工中",
+      "justSecond": "努力施工中再稍等一下下><",
+      "backLater": "晚點再回來",
+      "accountError": "帳號異常",
+      "contactEmail": "請聯繫客服信箱處理",
+      "queueAgain": "再次進入隊伍排隊",
+      "noSubscribed": "因許久未訂購餐點需重新排隊，可訂購時將以Email提醒\n等待期間你可以....",
+      "queueAgainRemind": "  • 123123123123123123123123\n  • 選擇專屬餐點",
+      "serverError": "伺服器發生錯誤!請稍後再試"
+    },   
+  }
+}
